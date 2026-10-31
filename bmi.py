@@ -15,6 +15,8 @@ h = float(height)
 
 bmi = w / h ** 2  # 10**3 math.pow(h,2) h*h
 
+
+#age==19
 if bmi < 18.5:
     print("you are underweight")
 elif bmi >= 18.5 and bmi <= 24.9:
