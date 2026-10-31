@@ -1,6 +1,6 @@
 .venv/
 .env
-sectrets/mpesa
+secrets/mpesa
 
 # .gitignore
 
