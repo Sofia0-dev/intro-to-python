@@ -1,6 +1,12 @@
 .venv/
 .env
 secrets/mpesa
+.idea/
+*.mp3
+*.txt
+*.webm
 
 # .gitignore
+
+
 

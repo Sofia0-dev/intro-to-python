@@ -65,6 +65,9 @@ people = [
 
 print(people[0]["age"])
 
+
+
+
 #algorithms
 
 
