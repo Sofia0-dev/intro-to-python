@@ -26,3 +26,5 @@ c1.print_details()
 
 # branches -- copy -- master main
 # feature ---
+
+# we will learn inheritance in python
