@@ -5,8 +5,11 @@ secrets/mpesa
 *.mp3
 *.txt
 *.webm
+!requirements.txt
+
 
 # .gitignore
 
-
+# pip freeze > requirements.txt
+#pip install -r requirements.txt
 
