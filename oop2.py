@@ -23,6 +23,9 @@ c3 = Circle(40)
 print(c1.area())
 c1.print_details()
 
+my_circles = Circle([10,20])
+print(my_circles.area())
+
 
 # branches -- copy -- master main
 # feature ---
