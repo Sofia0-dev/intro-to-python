@@ -66,3 +66,6 @@ print(sorted_by_age)
 # print(addition(1,2,3,6,6))
 # print(addition(1,2,3,4,2,7,8))
 # print(addition(1,2,3,4,5,9,1,5))
+
+def my_functions:
+    print(dir(my_functions))
