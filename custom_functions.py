@@ -9,5 +9,5 @@ def greeting(name):
 # greeting('ikhlas')
 # greeting('amir')
 
-# redo this class, coz wth
+
 
